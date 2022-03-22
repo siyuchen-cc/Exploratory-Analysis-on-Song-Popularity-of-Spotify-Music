@@ -13,4 +13,4 @@ For this part, I will review the distribution of song popularity in general and 
 I will use K-means clustering to find representative clusters to identify different song features.
 
 ### Data Source
-I will be using a csv file from Kaggle: ![source](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db).
+I will be using a csv file from Kaggle: [Source](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db).
